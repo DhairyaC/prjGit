@@ -7,6 +7,8 @@ namespace prjGit
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+
+            Console.WriteLine("Good morining!");
         }
     }
 }
