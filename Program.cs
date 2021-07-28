@@ -11,6 +11,8 @@ namespace prjGit
             Console.WriteLine("Good morining!");
 
             Console.WriteLine("Hi!");
+            
+            Console.WriteLine("Hello!");
         }
     }
 }
